@@ -1,0 +1,9 @@
+Building Vagcoin
+
+See doc/readme-qt.rst for instructions on building Vagcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Vagcoin.
+
+See doc/build-*.txt for instructions on building vagcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Vagcoin.
